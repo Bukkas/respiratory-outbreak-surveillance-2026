@@ -1,4 +1,4 @@
-Respiratory Pathogen Surveillance Analysis (January 2026)
+### Respiratory Pathogen Surveillance Analysis (January 2026)
 
 Project Overview
 This project provides a comprehensive Exploratory Data Analysis (EDA) of respiratory pathogen surveillance data from January 2026. The workflow transforms a "noisy" raw dataset into a refined clinical narrative covering 491 unique patient cases.
@@ -33,4 +33,5 @@ Key Findings
 Visualizations & Color Palette
 - Green (#117733): Influenza A
 - Blue (#88CCEE): SARS-CoV-2
+
 - Red/Pink (#CC6677): Unknown Etiology
